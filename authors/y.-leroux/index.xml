@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y. Leroux | HOPO Therapeutics</title>
-    <link>/authors/y.-leroux/</link>
-      <atom:link href="/authors/y.-leroux/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/y.-leroux/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/y.-leroux/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Leroux</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Y. Leroux</title>
-      <link>/authors/y.-leroux/</link>
+      <link>https://julianrees.github.io/webdemo/authors/y.-leroux/</link>
     </image>
     
     <item>
       <title>Comparative efficacies of 3,4,3-LIHOPO and DTPA for enhancing the excretion of plutonium and americium from the rat after simulated wound contamination as nitrates</title>
-      <link>/publication/stradling-comparative-1993/</link>
+      <link>https://julianrees.github.io/webdemo/publication/stradling-comparative-1993/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>/publication/stradling-comparative-1993/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/stradling-comparative-1993/</guid>
       <description></description>
     </item>
     

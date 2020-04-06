@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K N Raymond | HOPO Therapeutics</title>
-    <link>/authors/k-n-raymond/</link>
-      <atom:link href="/authors/k-n-raymond/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/k-n-raymond/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/k-n-raymond/index.xml" rel="self" type="application/rss+xml" />
     <description>K N Raymond</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 01 Feb 2000 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>K N Raymond</title>
-      <link>/authors/k-n-raymond/</link>
+      <link>https://julianrees.github.io/webdemo/authors/k-n-raymond/</link>
     </image>
     
     <item>
       <title>Multidentate hydroxypyridinonate ligands for Pu(IV) chelation in vivo: comparative efficacy and toxicity in mouse of ligands containing 1,2-HOPO or Me-3,2-HOPO.</title>
-      <link>/publication/durbin-multidentate-2000/</link>
+      <link>https://julianrees.github.io/webdemo/publication/durbin-multidentate-2000/</link>
       <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
-      <guid>/publication/durbin-multidentate-2000/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/durbin-multidentate-2000/</guid>
       <description></description>
     </item>
     

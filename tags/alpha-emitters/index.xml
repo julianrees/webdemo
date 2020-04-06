@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alpha emitters | HOPO Therapeutics</title>
-    <link>/tags/alpha-emitters/</link>
-      <atom:link href="/tags/alpha-emitters/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/tags/alpha-emitters/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/tags/alpha-emitters/index.xml" rel="self" type="application/rss+xml" />
     <description>alpha emitters</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>alpha emitters</title>
-      <link>/tags/alpha-emitters/</link>
+      <link>https://julianrees.github.io/webdemo/tags/alpha-emitters/</link>
     </image>
     
     <item>
       <title>238 Pu elimination profiles after delayed treatment with 3,4,3LI(1,2HOPO) in female and male Swiss-Webster mice</title>
-      <link>/publication/an-238-2014/</link>
+      <link>https://julianrees.github.io/webdemo/publication/an-238-2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/an-238-2014/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/an-238-2014/</guid>
       <description></description>
     </item>
     

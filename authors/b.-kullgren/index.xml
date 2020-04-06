@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B. Kullgren | HOPO Therapeutics</title>
-    <link>/authors/b.-kullgren/</link>
-      <atom:link href="/authors/b.-kullgren/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/b.-kullgren/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/b.-kullgren/index.xml" rel="self" type="application/rss+xml" />
     <description>B. Kullgren</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sun, 01 May 1994 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>B. Kullgren</title>
-      <link>/authors/b.-kullgren/</link>
+      <link>https://julianrees.github.io/webdemo/authors/b.-kullgren/</link>
     </image>
     
     <item>
       <title>In Vivo Chelation of Am(III), Pu(IV), Np(V), and U(VI) in Mice by TREN-(Me-3,2-HOPO)</title>
-      <link>/publication/durbin-vivo-1994/</link>
+      <link>https://julianrees.github.io/webdemo/publication/durbin-vivo-1994/</link>
       <pubDate>Sun, 01 May 1994 00:00:00 +0000</pubDate>
-      <guid>/publication/durbin-vivo-1994/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/durbin-vivo-1994/</guid>
       <description></description>
     </item>
     

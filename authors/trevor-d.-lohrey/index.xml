@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trevor D. Lohrey | HOPO Therapeutics</title>
-    <link>/authors/trevor-d.-lohrey/</link>
-      <atom:link href="/authors/trevor-d.-lohrey/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/trevor-d.-lohrey/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/trevor-d.-lohrey/index.xml" rel="self" type="application/rss+xml" />
     <description>Trevor D. Lohrey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Trevor D. Lohrey</title>
-      <link>/authors/trevor-d.-lohrey/</link>
+      <link>https://julianrees.github.io/webdemo/authors/trevor-d.-lohrey/</link>
     </image>
     
     <item>
       <title>Toxic heavy metal – Pb, Cd, Sn – complexation by the octadentate hydroxypyridinonate ligand archetype 3,4,3-LI(1,2-HOPO)</title>
-      <link>/publication/deblonde-toxic-2018/</link>
+      <link>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/deblonde-toxic-2018/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</guid>
       <description></description>
     </item>
     

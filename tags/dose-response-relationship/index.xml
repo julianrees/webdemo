@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dose-Response Relationship | HOPO Therapeutics</title>
-    <link>/tags/dose-response-relationship/</link>
-      <atom:link href="/tags/dose-response-relationship/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/tags/dose-response-relationship/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/tags/dose-response-relationship/index.xml" rel="self" type="application/rss+xml" />
     <description>Dose-Response Relationship</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Dose-Response Relationship</title>
-      <link>/tags/dose-response-relationship/</link>
+      <link>https://julianrees.github.io/webdemo/tags/dose-response-relationship/</link>
     </image>
     
     <item>
       <title>Dose-dependent efficacy and safety toxicology of hydroxypyridinonate actinide decorporation agents in rodents: towards a safe and effective human dosing regimen.</title>
-      <link>/publication/bunin-dose-dependent-2013/</link>
+      <link>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/bunin-dose-dependent-2013/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</guid>
       <description></description>
     </item>
     

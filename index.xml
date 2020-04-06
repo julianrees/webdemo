@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOPO Therapeutics</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/index.xml" rel="self" type="application/rss+xml" />
     <description>HOPO Therapeutics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>HOPO Therapeutics</title>
-      <link>/</link>
+      <link>https://julianrees.github.io/webdemo/</link>
     </image>
     
     <item>
       <title>HOPO Therapeutics, Inc. is established</title>
-      <link>/post/incorporation/</link>
+      <link>https://julianrees.github.io/webdemo/post/incorporation/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/incorporation/</guid>
+      <guid>https://julianrees.github.io/webdemo/post/incorporation/</guid>
       <description>&lt;p&gt;&lt;strong&gt;HOPO Therapeutics, Inc. announces its incorporation and the appointments of Rebecca J. Abergel, Ph.D., and Julian A. Rees, Ph.D. to the Board of Directors.  Julian A. Rees is also named President and Chief Executive Officer&lt;/strong&gt;&lt;br&gt;
 &lt;br&gt;
 Dr. Abergel, Assistant Professor in the Department of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist in the Chemical Sciences Division at Lawrence Berkeley National Laboratory, is a world-renowned expert in the biological chemistry of the actinide elements.&lt;br&gt;
@@ -27,9 +27,9 @@ Dr. Rees joins HOPO Therapeutics as President and Chief Executive Office after a
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://julianrees.github.io/webdemo/contact/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
+      <guid>https://julianrees.github.io/webdemo/contact/</guid>
       <description>&lt;h3 id=&#34;general-inquiries&#34;&gt;General Inquiries&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:info@hopotx.com&#34;&gt;info@hopotx.com&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;news--media&#34;&gt;News &amp;amp; Media&lt;/h3&gt;
@@ -45,9 +45,9 @@ Dr. Rees joins HOPO Therapeutics as President and Chief Executive Office after a
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://julianrees.github.io/webdemo/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https://julianrees.github.io/webdemo/privacy/</guid>
       <description>&lt;p&gt;This privacy policy applies to the website of HOPO Therapeutics, Inc., currently located at hopotx.com, and other online services owned or controlled by HOPO Therapeutics Inc.  By using HOPO Therapeutics&amp;rsquo; online services including this website, you consent to this privacy policy. HOPO Therapeutics may be referred to by “we”, “us”, or “our”.&lt;/p&gt;
 &lt;h3 id=&#34;personal-data&#34;&gt;Personal Data&lt;/h3&gt;
 &lt;p&gt;Personal data is information that specifically identifies an individual, such as an address, telephone number, e-mail address, and information about that individual’s activities when directly linked to that person. Personal data also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal data that identifies you.&lt;/p&gt;
@@ -76,9 +76,9 @@ Dr. Rees joins HOPO Therapeutics as President and Chief Executive Office after a
     
     <item>
       <title>Terms &amp; Conditions</title>
-      <link>/terms/</link>
+      <link>https://julianrees.github.io/webdemo/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
+      <guid>https://julianrees.github.io/webdemo/terms/</guid>
       <description>&lt;p&gt;These Terms and Conditions of Use (&amp;ldquo;Terms and Conditions&amp;rdquo;) apply to your access and use of, and registration with, the website (the “Website”) of HOPO Therapeutics, Inc. (“HOPO Therapeutics”). HOPO Therapeutics may be referred to by “we”, “us”, or “our”.&lt;/p&gt;
 &lt;p&gt;Please read these Terms and Conditions before accessing, browsing, registering, or otherwise using the Website. Your access, browsing, review, registration, and use of the Website are subject to these Terms and Conditions and all applicable laws. By accessing and using the Website, you accept these Terms and Conditions, without limitation or qualification. If you do not agree to the Terms and Conditions, do not access, browse, or otherwise use the Website.  If, at any time, any part of the Terms and Conditions is no longer acceptable to you, you should immediately terminate your use of the Website.&lt;/p&gt;
 &lt;h3 id=&#34;right-to-change-modify-or-delete-the-terms-and-conditions&#34;&gt;Right to Change, Modify or Delete the Terms and Conditions&lt;/h3&gt;
@@ -119,153 +119,153 @@ otherwise violates any applicable criminal or civil law.&lt;/p&gt;
     
     <item>
       <title>Evaluating the potential of chelation therapy to prevent and treat gadolinium deposition from MRI contrast agents</title>
-      <link>/publication/rees-evaluating-2018/</link>
+      <link>https://julianrees.github.io/webdemo/publication/rees-evaluating-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rees-evaluating-2018/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/rees-evaluating-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toxic heavy metal – Pb, Cd, Sn – complexation by the octadentate hydroxypyridinonate ligand archetype 3,4,3-LI(1,2-HOPO)</title>
-      <link>/publication/deblonde-toxic-2018/</link>
+      <link>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/deblonde-toxic-2018/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From early prophylaxis to delayed treatment: Establishing the plutonium decorporation activity window of hydroxypyridinonate chelating agents</title>
-      <link>/publication/an-early-2017/</link>
+      <link>https://julianrees.github.io/webdemo/publication/an-early-2017/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/an-early-2017/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/an-early-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biodistribution of the Multidentate Hydroxypyridinonate Ligand [ 14 C]-3,4,3-LI(1,2-HOPO), a Potent Actinide Decorporation Agent</title>
-      <link>/publication/choi-biodistribution-2015/</link>
+      <link>https://julianrees.github.io/webdemo/publication/choi-biodistribution-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/choi-biodistribution-2015/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/choi-biodistribution-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Vitro Metabolism and Stability of the Actinide Chelating Agent 3,4,3-LI(1,2-HOPO)</title>
-      <link>/publication/choi-vitro-2015/</link>
+      <link>https://julianrees.github.io/webdemo/publication/choi-vitro-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/choi-vitro-2015/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/choi-vitro-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydroxypyridinonate Complex Stability of Group (IV) Metals and Tetravalent f-Block Elements: The Key to the Next Generation of Chelating Agents for Radiopharmaceuticals</title>
-      <link>/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</link>
+      <link>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>238 Pu elimination profiles after delayed treatment with 3,4,3LI(1,2HOPO) in female and male Swiss-Webster mice</title>
-      <link>/publication/an-238-2014/</link>
+      <link>https://julianrees.github.io/webdemo/publication/an-238-2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/an-238-2014/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/an-238-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Methods for the Bioavailability Evaluation of Hydroxypyridinonate Actinide Decorporation Agents in Pre-Clinical Pharmacokinetic Studies</title>
-      <link>/publication/chang-analytical-2013/</link>
+      <link>https://julianrees.github.io/webdemo/publication/chang-analytical-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/chang-analytical-2013/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/chang-analytical-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solution Thermodynamic Stability of Complexes Formed with the Octadentate Hydroxypyridinonate Ligand 3,4,3-LI(1,2-HOPO): A Critical Feature for Efficient Chelation of Lanthanide(IV) and Actinide(IV) Ions</title>
-      <link>/publication/deblonde-solution-2013/</link>
+      <link>https://julianrees.github.io/webdemo/publication/deblonde-solution-2013/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/deblonde-solution-2013/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/deblonde-solution-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dose-dependent efficacy and safety toxicology of hydroxypyridinonate actinide decorporation agents in rodents: towards a safe and effective human dosing regimen.</title>
-      <link>/publication/bunin-dose-dependent-2013/</link>
+      <link>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/bunin-dose-dependent-2013/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3,4,3-LI(1,2-HOPO): In vitro formation of highly stable lanthanide complexes translates into efficacious in vivo europium decorporation</title>
-      <link>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</link>
+      <link>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomimetic Actinide Chelators: An Update on the Preclinical Development of the Orally Active Hydroxypyridonate Decorporation Agents 3,4,3-LI(1,2-HOPO) and 5-LIO(Me-3,2-HOPO)</title>
-      <link>/publication/abergel-biomimetic-2010/</link>
+      <link>https://julianrees.github.io/webdemo/publication/abergel-biomimetic-2010/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/abergel-biomimetic-2010/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/abergel-biomimetic-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidentate hydroxypyridinonate ligands for Pu(IV) chelation in vivo: comparative efficacy and toxicity in mouse of ligands containing 1,2-HOPO or Me-3,2-HOPO.</title>
-      <link>/publication/durbin-multidentate-2000/</link>
+      <link>https://julianrees.github.io/webdemo/publication/durbin-multidentate-2000/</link>
       <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
-      <guid>/publication/durbin-multidentate-2000/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/durbin-multidentate-2000/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Vivo Chelation of Am(III), Pu(IV), Np(V), and U(VI) in Mice by TREN-(Me-3,2-HOPO)</title>
-      <link>/publication/durbin-vivo-1994/</link>
+      <link>https://julianrees.github.io/webdemo/publication/durbin-vivo-1994/</link>
       <pubDate>Sun, 01 May 1994 00:00:00 +0000</pubDate>
-      <guid>/publication/durbin-vivo-1994/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/durbin-vivo-1994/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparative efficacies of 3,4,3-LIHOPO and DTPA for enhancing the excretion of plutonium and americium from the rat after simulated wound contamination as nitrates</title>
-      <link>/publication/stradling-comparative-1993/</link>
+      <link>https://julianrees.github.io/webdemo/publication/stradling-comparative-1993/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>/publication/stradling-comparative-1993/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/stradling-comparative-1993/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early chelation therapy for injected pu-238 and am-241 in the rat: Comparison of 3,4,3-LIHOPO, DFO-HOPO, DTPA-DX, DTPA and DFOA</title>
-      <link>/publication/volf-early-1993/</link>
+      <link>https://julianrees.github.io/webdemo/publication/volf-early-1993/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>/publication/volf-early-1993/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/volf-early-1993/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>https://julianrees.github.io/webdemo/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>https://julianrees.github.io/webdemo/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/availability/</link>
+      <link>https://julianrees.github.io/webdemo/availability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/availability/</guid>
+      <guid>https://julianrees.github.io/webdemo/availability/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/science/</link>
+      <link>https://julianrees.github.io/webdemo/science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/science/</guid>
+      <guid>https://julianrees.github.io/webdemo/science/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2-HOPO) | HOPO Therapeutics</title>
-    <link>/tags/2-hopo/</link>
-      <atom:link href="/tags/2-hopo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/tags/2-hopo/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/tags/2-hopo/index.xml" rel="self" type="application/rss+xml" />
     <description>2-HOPO)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>2-HOPO)</title>
-      <link>/tags/2-hopo/</link>
+      <link>https://julianrees.github.io/webdemo/tags/2-hopo/</link>
     </image>
     
     <item>
       <title>Biodistribution of the Multidentate Hydroxypyridinonate Ligand [ 14 C]-3,4,3-LI(1,2-HOPO), a Potent Actinide Decorporation Agent</title>
-      <link>/publication/choi-biodistribution-2015/</link>
+      <link>https://julianrees.github.io/webdemo/publication/choi-biodistribution-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/choi-biodistribution-2015/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/choi-biodistribution-2015/</guid>
       <description></description>
     </item>
     

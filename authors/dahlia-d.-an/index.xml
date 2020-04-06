@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dahlia D. An | HOPO Therapeutics</title>
-    <link>/authors/dahlia-d.-an/</link>
-      <atom:link href="/authors/dahlia-d.-an/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/dahlia-d.-an/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/dahlia-d.-an/index.xml" rel="self" type="application/rss+xml" />
     <description>Dahlia D. An</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Dahlia D. An</title>
-      <link>/authors/dahlia-d.-an/</link>
+      <link>https://julianrees.github.io/webdemo/authors/dahlia-d.-an/</link>
     </image>
     
     <item>
       <title>Evaluating the potential of chelation therapy to prevent and treat gadolinium deposition from MRI contrast agents</title>
-      <link>/publication/rees-evaluating-2018/</link>
+      <link>https://julianrees.github.io/webdemo/publication/rees-evaluating-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rees-evaluating-2018/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/rees-evaluating-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toxic heavy metal – Pb, Cd, Sn – complexation by the octadentate hydroxypyridinonate ligand archetype 3,4,3-LI(1,2-HOPO)</title>
-      <link>/publication/deblonde-toxic-2018/</link>
+      <link>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/deblonde-toxic-2018/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From early prophylaxis to delayed treatment: Establishing the plutonium decorporation activity window of hydroxypyridinonate chelating agents</title>
-      <link>/publication/an-early-2017/</link>
+      <link>https://julianrees.github.io/webdemo/publication/an-early-2017/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/an-early-2017/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/an-early-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biodistribution of the Multidentate Hydroxypyridinonate Ligand [ 14 C]-3,4,3-LI(1,2-HOPO), a Potent Actinide Decorporation Agent</title>
-      <link>/publication/choi-biodistribution-2015/</link>
+      <link>https://julianrees.github.io/webdemo/publication/choi-biodistribution-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/choi-biodistribution-2015/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/choi-biodistribution-2015/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erin E Jarvis | HOPO Therapeutics</title>
-    <link>/authors/erin-e-jarvis/</link>
-      <atom:link href="/authors/erin-e-jarvis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/erin-e-jarvis/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/erin-e-jarvis/index.xml" rel="self" type="application/rss+xml" />
     <description>Erin E Jarvis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Erin E Jarvis</title>
-      <link>/authors/erin-e-jarvis/</link>
+      <link>https://julianrees.github.io/webdemo/authors/erin-e-jarvis/</link>
     </image>
     
     <item>
       <title>Dose-dependent efficacy and safety toxicology of hydroxypyridinonate actinide decorporation agents in rodents: towards a safe and effective human dosing regimen.</title>
-      <link>/publication/bunin-dose-dependent-2013/</link>
+      <link>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/bunin-dose-dependent-2013/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</guid>
       <description></description>
     </item>
     

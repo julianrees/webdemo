@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gauthier J.P. Deblonde | HOPO Therapeutics</title>
-    <link>/authors/gauthier-j.p.-deblonde/</link>
-      <atom:link href="/authors/gauthier-j.p.-deblonde/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/gauthier-j.p.-deblonde/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/gauthier-j.p.-deblonde/index.xml" rel="self" type="application/rss+xml" />
     <description>Gauthier J.P. Deblonde</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Gauthier J.P. Deblonde</title>
-      <link>/authors/gauthier-j.p.-deblonde/</link>
+      <link>https://julianrees.github.io/webdemo/authors/gauthier-j.p.-deblonde/</link>
     </image>
     
     <item>
       <title>Toxic heavy metal – Pb, Cd, Sn – complexation by the octadentate hydroxypyridinonate ligand archetype 3,4,3-LI(1,2-HOPO)</title>
-      <link>/publication/deblonde-toxic-2018/</link>
+      <link>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/deblonde-toxic-2018/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/deblonde-toxic-2018/</guid>
       <description></description>
     </item>
     

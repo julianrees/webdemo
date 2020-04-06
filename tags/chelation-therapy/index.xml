@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chelation therapy | HOPO Therapeutics</title>
-    <link>/tags/chelation-therapy/</link>
-      <atom:link href="/tags/chelation-therapy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/tags/chelation-therapy/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/tags/chelation-therapy/index.xml" rel="self" type="application/rss+xml" />
     <description>Chelation therapy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Chelation therapy</title>
-      <link>/tags/chelation-therapy/</link>
+      <link>https://julianrees.github.io/webdemo/tags/chelation-therapy/</link>
     </image>
     
     <item>
       <title>From early prophylaxis to delayed treatment: Establishing the plutonium decorporation activity window of hydroxypyridinonate chelating agents</title>
-      <link>/publication/an-early-2017/</link>
+      <link>https://julianrees.github.io/webdemo/publication/an-early-2017/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/an-early-2017/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/an-early-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Vitro Metabolism and Stability of the Actinide Chelating Agent 3,4,3-LI(1,2-HOPO)</title>
-      <link>/publication/choi-vitro-2015/</link>
+      <link>https://julianrees.github.io/webdemo/publication/choi-vitro-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/choi-vitro-2015/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/choi-vitro-2015/</guid>
       <description></description>
     </item>
     

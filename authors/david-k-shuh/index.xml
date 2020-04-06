@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David K Shuh | HOPO Therapeutics</title>
-    <link>/authors/david-k-shuh/</link>
-      <atom:link href="/authors/david-k-shuh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/david-k-shuh/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/david-k-shuh/index.xml" rel="self" type="application/rss+xml" />
     <description>David K Shuh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>David K Shuh</title>
-      <link>/authors/david-k-shuh/</link>
+      <link>https://julianrees.github.io/webdemo/authors/david-k-shuh/</link>
     </image>
     
     <item>
       <title>3,4,3-LI(1,2-HOPO): In vitro formation of highly stable lanthanide complexes translates into efficacious in vivo europium decorporation</title>
-      <link>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</link>
+      <link>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</guid>
       <description></description>
     </item>
     

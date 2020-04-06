@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | HOPO Therapeutics</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/post/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://julianrees.github.io/webdemo/post/</link>
     </image>
     
     <item>
       <title>HOPO Therapeutics, Inc. is established</title>
-      <link>/post/incorporation/</link>
+      <link>https://julianrees.github.io/webdemo/post/incorporation/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/incorporation/</guid>
+      <guid>https://julianrees.github.io/webdemo/post/incorporation/</guid>
       <description>&lt;p&gt;&lt;strong&gt;HOPO Therapeutics, Inc. announces its incorporation and the appointments of Rebecca J. Abergel, Ph.D., and Julian A. Rees, Ph.D. to the Board of Directors.  Julian A. Rees is also named President and Chief Executive Officer&lt;/strong&gt;&lt;br&gt;
 &lt;br&gt;
 Dr. Abergel, Assistant Professor in the Department of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist in the Chemical Sciences Division at Lawrence Berkeley National Laboratory, is a world-renowned expert in the biological chemistry of the actinide elements.&lt;br&gt;

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rebecca J Abergel | HOPO Therapeutics</title>
-    <link>/authors/rebecca-j-abergel/</link>
-      <atom:link href="/authors/rebecca-j-abergel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://julianrees.github.io/webdemo/authors/rebecca-j-abergel/</link>
+      <atom:link href="https://julianrees.github.io/webdemo/authors/rebecca-j-abergel/index.xml" rel="self" type="application/rss+xml" />
     <description>Rebecca J Abergel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Rebecca J Abergel</title>
-      <link>/authors/rebecca-j-abergel/</link>
+      <link>https://julianrees.github.io/webdemo/authors/rebecca-j-abergel/</link>
     </image>
     
     <item>
       <title>238 Pu elimination profiles after delayed treatment with 3,4,3LI(1,2HOPO) in female and male Swiss-Webster mice</title>
-      <link>/publication/an-238-2014/</link>
+      <link>https://julianrees.github.io/webdemo/publication/an-238-2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/an-238-2014/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/an-238-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solution Thermodynamic Stability of Complexes Formed with the Octadentate Hydroxypyridinonate Ligand 3,4,3-LI(1,2-HOPO): A Critical Feature for Efficient Chelation of Lanthanide(IV) and Actinide(IV) Ions</title>
-      <link>/publication/deblonde-solution-2013/</link>
+      <link>https://julianrees.github.io/webdemo/publication/deblonde-solution-2013/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/deblonde-solution-2013/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/deblonde-solution-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dose-dependent efficacy and safety toxicology of hydroxypyridinonate actinide decorporation agents in rodents: towards a safe and effective human dosing regimen.</title>
-      <link>/publication/bunin-dose-dependent-2013/</link>
+      <link>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/bunin-dose-dependent-2013/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/bunin-dose-dependent-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3,4,3-LI(1,2-HOPO): In vitro formation of highly stable lanthanide complexes translates into efficacious in vivo europium decorporation</title>
-      <link>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</link>
+      <link>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</guid>
+      <guid>https://julianrees.github.io/webdemo/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</guid>
       <description></description>
     </item>
     
