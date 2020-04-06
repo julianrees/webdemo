@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | HOPO Therapeutics</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/julian_rees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/julian_rees/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Julian is a co-founder of HOPO Therapeutics and has served as its President and Chief Executive Officer since incorporation in 2020. He has over a decade of research experience focused on the interactions between metal ions and biological systems, with foci in biological inorganic chemistry, ligand and chelator design, and f-block element decorporation. Julian has authored multiple research articles detailing critical studies on the efficacy and applications of HOPO&amp;rsquo;s central technology. He received a B.A. in Chemistry from Goucher College, was a DAAD Graduate Scholar at the Max Planck Institute for Chemical Energy Conversion, earned his M.S. and Ph.D. in Chemistry from the University of Washington, and completed a Postdoctoral Fellowship at Lawrence Berkeley National Laboratory. In addition to his role at HOPO Therapeutics, he is also adjunct faculty in Chemistry at Berkeley City College.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/rebecca_abergel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/rebecca_abergel/</guid>
+      <description>&lt;br&gt;
+Rebecca is an Assistant Professor of Nuclear Engineering at the University of California, Berkeley, and is a Faculty Scientist and Group Leader of the Heavy Element Chemistry Program at Lawrence Berkeley National Laboratory. She is the Principal Investigator of the BioActinide Chemistry Group, as well as the Deputy Director of the Institute for Resilient Communities. Rebecca is an internationally-recognized expert in the biochemistry of the actinides and the treatment and decorporation of internalized radionuclides. She is a recipient of the Early Career Award from the U.S. Department of Energy, ... Rebecca received her B.Sc. in Chemistry from the Ecole Normale Supérieure in France, and her Ph.D. in Chemistry from UC Berkeley.
+</description>
+    </item>
+    
+  </channel>
+</rss>
