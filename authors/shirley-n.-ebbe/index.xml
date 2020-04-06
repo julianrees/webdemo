@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shirley N. Ebbe | HOPO Therapeutics</title>
+    <link>/authors/shirley-n.-ebbe/</link>
+      <atom:link href="/authors/shirley-n.-ebbe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shirley N. Ebbe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Shirley N. Ebbe</title>
+      <link>/authors/shirley-n.-ebbe/</link>
+    </image>
+    
+    <item>
+      <title>Biomimetic Actinide Chelators: An Update on the Preclinical Development of the Orally Active Hydroxypyridonate Decorporation Agents 3,4,3-LI(1,2-HOPO) and 5-LIO(Me-3,2-HOPO)</title>
+      <link>/publication/abergel-biomimetic-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/abergel-biomimetic-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

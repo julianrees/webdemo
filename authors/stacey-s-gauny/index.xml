@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stacey S Gauny | HOPO Therapeutics</title>
+    <link>/authors/stacey-s-gauny/</link>
+      <atom:link href="/authors/stacey-s-gauny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stacey S Gauny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Stacey S Gauny</title>
+      <link>/authors/stacey-s-gauny/</link>
+    </image>
+    
+    <item>
+      <title>238 Pu elimination profiles after delayed treatment with 3,4,3LI(1,2HOPO) in female and male Swiss-Webster mice</title>
+      <link>/publication/an-238-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/an-238-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gauthier J-P. Deblonde | HOPO Therapeutics</title>
+    <link>/authors/gauthier-j-p.-deblonde/</link>
+      <atom:link href="/authors/gauthier-j-p.-deblonde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gauthier J-P. Deblonde</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Gauthier J-P. Deblonde</title>
+      <link>/authors/gauthier-j-p.-deblonde/</link>
+    </image>
+    
+    <item>
+      <title>Solution Thermodynamic Stability of Complexes Formed with the Octadentate Hydroxypyridinonate Ligand 3,4,3-LI(1,2-HOPO): A Critical Feature for Efficient Chelation of Lanthanide(IV) and Actinide(IV) Ions</title>
+      <link>/publication/deblonde-solution-2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/deblonde-solution-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

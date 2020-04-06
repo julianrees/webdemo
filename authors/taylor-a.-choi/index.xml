@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taylor A. Choi | HOPO Therapeutics</title>
+    <link>/authors/taylor-a.-choi/</link>
+      <atom:link href="/authors/taylor-a.-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taylor A. Choi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Taylor A. Choi</title>
+      <link>/authors/taylor-a.-choi/</link>
+    </image>
+    
+    <item>
+      <title>Biodistribution of the Multidentate Hydroxypyridinonate Ligand [ 14 C]-3,4,3-LI(1,2-HOPO), a Potent Actinide Decorporation Agent</title>
+      <link>/publication/choi-biodistribution-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/choi-biodistribution-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vitro Metabolism and Stability of the Actinide Chelating Agent 3,4,3-LI(1,2-HOPO)</title>
+      <link>/publication/choi-vitro-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/choi-vitro-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxypyridinonate Complex Stability of Group (IV) Metals and Tetravalent f-Block Elements: The Key to the Next Generation of Chelating Agents for Radiopharmaceuticals</title>
+      <link>/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

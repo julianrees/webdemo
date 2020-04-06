@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. A. Gray | HOPO Therapeutics</title>
+    <link>/authors/s.-a.-gray/</link>
+      <atom:link href="/authors/s.-a.-gray/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. A. Gray</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>S. A. Gray</title>
+      <link>/authors/s.-a.-gray/</link>
+    </image>
+    
+    <item>
+      <title>Comparative efficacies of 3,4,3-LIHOPO and DTPA for enhancing the excretion of plutonium and americium from the rat after simulated wound contamination as nitrates</title>
+      <link>/publication/stradling-comparative-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/stradling-comparative-1993/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

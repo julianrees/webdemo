@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>HOPO Therapeutics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>HOPO Therapeutics</title>
@@ -40,23 +40,6 @@ Dr. Rees joins HOPO Therapeutics as President and Chief Executive Office after a
 &lt;p&gt;&lt;a href=&#34;mailto:legal@hopotx.com&#34;&gt;legal@hopotx.com&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;careers&#34;&gt;Careers&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:careers@hopotx.com&#34;&gt;careers@hopotx.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Important Notice</title>
-      <link>/availability/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/availability/</guid>
-      <description>&lt;p&gt;At this time, it is unfortunately not possible for us to provide, sell, or otherwise distribute the investigational drug 3,4,3-LI(1,2-HOPO) to private individuals, organizations, or physicians outside of our established research partners. Doing so could jeopardize our ability to continue to develop the drug.&lt;/p&gt;
-&lt;p&gt;This includes any distribution of the drug through the 
-&lt;a href=&#34;https://www.fda.gov/news-events/public-health-focus/expanded-access&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FDA&amp;rsquo;s Expanded Access (&amp;ldquo;Compassionate Use&amp;rdquo;) Program&lt;/a&gt;
-, however we are taking steps to explore our options for making 3,4,3-LI(1,2-HOPO) available via the Expanded Access program. We hope that in the near future, we will be able to make HOPO available through Expanded Access and/or clinical trials.&lt;/p&gt;
-&lt;p&gt;To stay informed regarding this and other updates from us, please 
-&lt;a href=&#34;../#contact&#34;&gt;join our mailing list&lt;/a&gt;
- or 
-&lt;a href=&#34;https://www.twitter.com/hopotx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;follow us on Twitter&lt;/a&gt;
-.&lt;/p&gt;
 </description>
     </item>
     
@@ -132,6 +115,150 @@ otherwise violates any applicable criminal or civil law.&lt;/p&gt;
 &lt;h3 id=&#34;last-updated&#34;&gt;Last Updated&lt;/h3&gt;
 &lt;p&gt;These Terms and Conditions of Use were last updated on February 22, 2020.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Evaluating the potential of chelation therapy to prevent and treat gadolinium deposition from MRI contrast agents</title>
+      <link>/publication/rees-evaluating-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rees-evaluating-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toxic heavy metal – Pb, Cd, Sn – complexation by the octadentate hydroxypyridinonate ligand archetype 3,4,3-LI(1,2-HOPO)</title>
+      <link>/publication/deblonde-toxic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/deblonde-toxic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From early prophylaxis to delayed treatment: Establishing the plutonium decorporation activity window of hydroxypyridinonate chelating agents</title>
+      <link>/publication/an-early-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/an-early-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodistribution of the Multidentate Hydroxypyridinonate Ligand [ 14 C]-3,4,3-LI(1,2-HOPO), a Potent Actinide Decorporation Agent</title>
+      <link>/publication/choi-biodistribution-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/choi-biodistribution-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vitro Metabolism and Stability of the Actinide Chelating Agent 3,4,3-LI(1,2-HOPO)</title>
+      <link>/publication/choi-vitro-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/choi-vitro-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxypyridinonate Complex Stability of Group (IV) Metals and Tetravalent f-Block Elements: The Key to the Next Generation of Chelating Agents for Radiopharmaceuticals</title>
+      <link>/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sturzbecher-hoehne-hydroxypyridinonate-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>238 Pu elimination profiles after delayed treatment with 3,4,3LI(1,2HOPO) in female and male Swiss-Webster mice</title>
+      <link>/publication/an-238-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/an-238-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Methods for the Bioavailability Evaluation of Hydroxypyridinonate Actinide Decorporation Agents in Pre-Clinical Pharmacokinetic Studies</title>
+      <link>/publication/chang-analytical-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-analytical-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution Thermodynamic Stability of Complexes Formed with the Octadentate Hydroxypyridinonate Ligand 3,4,3-LI(1,2-HOPO): A Critical Feature for Efficient Chelation of Lanthanide(IV) and Actinide(IV) Ions</title>
+      <link>/publication/deblonde-solution-2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/deblonde-solution-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dose-dependent efficacy and safety toxicology of hydroxypyridinonate actinide decorporation agents in rodents: towards a safe and effective human dosing regimen.</title>
+      <link>/publication/bunin-dose-dependent-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bunin-dose-dependent-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3,4,3-LI(1,2-HOPO): In vitro formation of highly stable lanthanide complexes translates into efficacious in vivo europium decorporation</title>
+      <link>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/sturzbecher-hoehne-343-li-12-hopo-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomimetic Actinide Chelators: An Update on the Preclinical Development of the Orally Active Hydroxypyridonate Decorporation Agents 3,4,3-LI(1,2-HOPO) and 5-LIO(Me-3,2-HOPO)</title>
+      <link>/publication/abergel-biomimetic-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/abergel-biomimetic-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidentate hydroxypyridinonate ligands for Pu(IV) chelation in vivo: comparative efficacy and toxicity in mouse of ligands containing 1,2-HOPO or Me-3,2-HOPO.</title>
+      <link>/publication/durbin-multidentate-2000/</link>
+      <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/durbin-multidentate-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vivo Chelation of Am(III), Pu(IV), Np(V), and U(VI) in Mice by TREN-(Me-3,2-HOPO)</title>
+      <link>/publication/durbin-vivo-1994/</link>
+      <pubDate>Sun, 01 May 1994 00:00:00 +0000</pubDate>
+      <guid>/publication/durbin-vivo-1994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative efficacies of 3,4,3-LIHOPO and DTPA for enhancing the excretion of plutonium and americium from the rat after simulated wound contamination as nitrates</title>
+      <link>/publication/stradling-comparative-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/stradling-comparative-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early chelation therapy for injected pu-238 and am-241 in the rat: Comparison of 3,4,3-LIHOPO, DFO-HOPO, DTPA-DX, DTPA and DFOA</title>
+      <link>/publication/volf-early-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/volf-early-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/availability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/availability/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walter Shinn | HOPO Therapeutics</title>
+    <link>/authors/walter-shinn/</link>
+      <atom:link href="/authors/walter-shinn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Walter Shinn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Walter Shinn</title>
+      <link>/authors/walter-shinn/</link>
+    </image>
+    
+    <item>
+      <title>Analytical Methods for the Bioavailability Evaluation of Hydroxypyridinonate Actinide Decorporation Agents in Pre-Clinical Pharmacokinetic Studies</title>
+      <link>/publication/chang-analytical-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-analytical-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

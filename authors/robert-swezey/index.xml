@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Swezey | HOPO Therapeutics</title>
+    <link>/authors/robert-swezey/</link>
+      <atom:link href="/authors/robert-swezey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Swezey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Robert Swezey</title>
+      <link>/authors/robert-swezey/</link>
+    </image>
+    
+    <item>
+      <title>In Vitro Metabolism and Stability of the Actinide Chelating Agent 3,4,3-LI(1,2-HOPO)</title>
+      <link>/publication/choi-vitro-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/choi-vitro-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Methods for the Bioavailability Evaluation of Hydroxypyridinonate Actinide Decorporation Agents in Pre-Clinical Pharmacokinetic Studies</title>
+      <link>/publication/chang-analytical-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-analytical-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

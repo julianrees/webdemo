@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Xu | HOPO Therapeutics</title>
+    <link>/authors/j-xu/</link>
+      <atom:link href="/authors/j-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 01 Feb 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>J Xu</title>
+      <link>/authors/j-xu/</link>
+    </image>
+    
+    <item>
+      <title>Multidentate hydroxypyridinonate ligands for Pu(IV) chelation in vivo: comparative efficacy and toxicity in mouse of ligands containing 1,2-HOPO or Me-3,2-HOPO.</title>
+      <link>/publication/durbin-multidentate-2000/</link>
+      <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/durbin-multidentate-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

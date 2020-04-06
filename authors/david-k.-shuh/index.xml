@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David K. Shuh | HOPO Therapeutics</title>
+    <link>/authors/david-k.-shuh/</link>
+      <atom:link href="/authors/david-k.-shuh/index.xml" rel="self" type="application/rss+xml" />
+    <description>David K. Shuh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>David K. Shuh</title>
+      <link>/authors/david-k.-shuh/</link>
+    </image>
+    
+    <item>
+      <title>Analytical Methods for the Bioavailability Evaluation of Hydroxypyridinonate Actinide Decorporation Agents in Pre-Clinical Pharmacokinetic Studies</title>
+      <link>/publication/chang-analytical-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-analytical-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomimetic Actinide Chelators: An Update on the Preclinical Development of the Orally Active Hydroxypyridonate Decorporation Agents 3,4,3-LI(1,2-HOPO) and 5-LIO(Me-3,2-HOPO)</title>
+      <link>/publication/abergel-biomimetic-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/abergel-biomimetic-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
